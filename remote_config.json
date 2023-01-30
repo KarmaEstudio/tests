@@ -1,5 +1,5 @@
 {
-  "showAds":true,
+  "showAds":false,
   "adsInterval":45,
   "showAppOpenAd":true,
   "showFirstAd":true,
