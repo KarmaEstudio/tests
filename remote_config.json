@@ -1,9 +1,12 @@
 {
   "showAds":true,
-  "adsInterval":45,
+  "adsInterval":60,
   "showAppOpenAd":true,
   "showFirstAd":true,
+  "showInterstitial":true,
   "showTestAds":true,
+  "showBannerAds":true,
+  "bannerAdUnit":"ca-app-pub-3940256099942544/6300978111",
   "interstitialAdUnit":"ca-app-pub-3940256099942544/1033173712",
   "openAppAdUnitId":"ca-app-pub-3940256099942544/3419835294"
 }
